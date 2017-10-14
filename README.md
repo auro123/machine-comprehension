@@ -6,7 +6,7 @@ MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS
 
 
 
-This repo contains TensorFlow implementation of -
+This repo contains TensorFlow implementation of :
 
 
 S-NET: FROM ANSWER EXTRACTION TO ANSWER
